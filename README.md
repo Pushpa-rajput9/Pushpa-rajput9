@@ -1,3 +1,4 @@
+<img align="centre" alt="code" width="1500px" height="370px"  src="var en liten, men svært anerkjent bedrift i hjertet av byen. De spesialiserte seg på skreddersydde dresser og elegante klær, kjent for sin uovertrufne kvalitet og håndverk. I over femti år hadde S.gif" />
 <h1 align="center">Hi everyone 👋, I'm Pushpa Rajput</h1>
 <h2 align="center">A passionate frontend developer from India</h2>
 
