@@ -1,6 +1,6 @@
 <h1 align="center">Hi everyone 👋, I'm Pushpa Rajput</h1>
 <h2 align="center">A passionate frontend developer from India</h2>
-<img align="right" alt="code" width="500px" height="400px"  src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" />
+<img align="right" alt="code" width="450px" height="410px"  src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpa-rajput9&label=Profile%20views&color=0e75b6&style=flat" alt="pushpa-rajput9" /> </p>
 
