@@ -15,12 +15,12 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/pushpa-rajput-3ba4491a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushpa-rajput-3ba4491a0" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/25490757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25490757" height="30" width="40" /></a>
-<a href="https://instagram.com/pushpa._.rajput._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pushpa._.rajput._" height="30" width="40" /></a>
-<a href="https://hashnode.com/@pushpa662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@pushpa662" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pushparajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pushparajput" height="30" width="40" /></a>
-<a href="https://discord.gg/ja8379by" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ja8379by" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pushpa-rajput-3ba4491a0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushpa-rajput-3ba4491a0" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/25490757" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25490757" height="30" width="40" /></a>
+<a href="https://instagram.com/pushpa._.rajput._" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pushpa._.rajput._" height="30" width="40" /></a>
+<a href="https://hashnode.com/@pushpa662" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@pushpa662" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pushparajput" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pushparajput" height="30" width="40" /></a>
+<a href="https://discord.gg/ja8379by" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ja8379by" height="30" width="40" /></a>
 </p>
 <img  height="30" width=""/> 
 <h3 align="left">Languages and Tools:</h3>
